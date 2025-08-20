@@ -1,0 +1,8 @@
+masalah yang belum selesai di BoboPetshop web
+1.ketika meneriman pesanan lebih dari 1 stok tetap berkurang 1 = done
+2.metode pembayaran belum siap
+3.ganti nama tabel BOM_produk di database = done
+4.di tm_produk hapus kebutuhan stok karena tidak berkurang produk di stok admin dan seharusnya stok berkurang ketika pesanan dari customer 
+telah di terima. = done
+5, databse laporan tidak masuk
+
